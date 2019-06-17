@@ -1,0 +1,13 @@
+{
+    "name": "AngularAPI",
+    "version": "1.0.0",
+    "description": "Servidor de API en NODE y Angular",
+    "author": "Guillermo Granados Gómez",
+    "license": "GPL-3",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "~3.x",
+        "mongoose": "^5.5.12",
+        "nodemon": "^1.19.1"
+    }
+}
